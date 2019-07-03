@@ -82,3 +82,13 @@ tests/title
 tests/vulkan
 tests/windows
 
+
+*.obj
+
+*.tlog
+
+*.pdb
+
+*.log
+
+*.lib
